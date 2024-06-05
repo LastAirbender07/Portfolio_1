@@ -13,7 +13,7 @@ const AboutMe = () => {
       </div>
       <div className='w-1/2 p-6'>
         <ul>
-            <li className='aboutRightli'><span className='aboutRightliSpan'>Age:</span>19</li>
+            <li className='aboutRightli'><span className='aboutRightliSpan'>Age:</span>20</li>
             <li className='aboutRightli'><span className='aboutRightliSpan'>Residence:</span>Chennai</li>
             <li className='aboutRightli'><span className='aboutRightliSpan'>Freelance:</span>Available</li>
             <li className='aboutRightli'><span className='aboutRightliSpan'>Address:</span>Thandalam, Sriperumbudur</li>
